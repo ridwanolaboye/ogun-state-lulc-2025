@@ -1,11 +1,11 @@
-Ogun State Land Use and Land Cover Classification, 2026
+Ogun State Land Use and Land Cover Classification, 2025
 Project Brief
 
 This project focuses on the spatial analysis and classification of land use and land cover across Ogun State, Nigeria, using recent satellite imagery.
 
 Spatial Question
 
-How is land use and land cover distributed across Ogun State, Nigeria, in 2026?
+How is land use and land cover distributed across Ogun State, Nigeria, in 2025?
 
 The analysis will identify and map major land cover categories such as:
 
@@ -30,7 +30,7 @@ Datasets
 
 Methodology
 
-1. Acquire 2026 Sentinel-2 satellite imagery covering Ogun State.
+1. Acquire 2025 Sentinel-2 satellite imagery covering Ogun State.
 2. Obtain the Ogun State administrative boundary.
 3. Preprocess the satellite imagery.
 4. Clip the imagery to the Ogun State boundary.
