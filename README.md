@@ -24,7 +24,7 @@ Datasets
 
 | Dataset | Purpose | Source |
 |---|---|---|
-| Sentinel-2 Satellite Imagery, 2026 | Land use and land cover classification | https://dataspace.copernicus.eu/ |
+| Sentinel-2 Satellite Imagery, 2025 | Land use and land cover classification | https://dataspace.copernicus.eu/ |
 | Ogun State Administrative Boundary | Defines the study area and clips the satellite imagery | https://www.geoboundaries.org/ |
 | OpenStreetMap Data | Supporting reference data for interpretation and validation | https://www.openstreetmap.org/ |
 
@@ -37,11 +37,11 @@ Methodology
 5. Perform land use and land cover classification.
 6. Identify the major land cover classes.
 7. Assess the classification results.
-8. Produce the final 2026 Land Use and Land Cover map.
+8. Produce the final 2025 Land Use and Land Cover map.
 
 Expected Output
 
-The expected output is a 2026 Land Use and Land Cover map of Ogun State showing the spatial distribution of the identified land cover classes.
+The expected output is a 2025 Land Use and Land Cover map of Ogun State showing the spatial distribution of the identified land cover classes.
 
 Software
 
