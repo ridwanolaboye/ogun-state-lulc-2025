@@ -1,0 +1,11 @@
+## Dataset 2: Waterways
+
+**Source:** OpenStreetMap (OSM), downloaded using the QuickOSM plugin in QGIS.
+
+**Number of features:** 144
+
+**Geometry type:** LineString
+
+**Key columns:** `osm_id`, `osm_type`, `waterway`, `name_yo`, `width`, `seasonal`, and `tidal`,`name`.
+
+The dataset contains mapped waterways across the study area and will be used to identify and represent water features that may support the classification and interpretation of land use and land cover in Ogun State.
