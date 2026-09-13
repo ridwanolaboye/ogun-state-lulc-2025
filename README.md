@@ -12,7 +12,7 @@ The detailed project brief is available in the [`Project_Brief.md`](Project_Brie
 
 ## Tools Used
 
-* ArcGIS Pro
+* QGIS
 * Microsoft Excel
 
 ## Author
