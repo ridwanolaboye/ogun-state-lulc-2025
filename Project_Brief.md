@@ -45,7 +45,7 @@ The expected output is a 2025 Land Use and Land Cover map of Ogun State showing 
 
 Software
 
-- ArcGIS Pro
+- QGIS
 - Microsoft Excel, where required
 
 Author
