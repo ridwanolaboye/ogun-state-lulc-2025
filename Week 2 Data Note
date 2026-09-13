@@ -8,7 +8,7 @@
 
 **Geometry type:** Polygon
 
-**Key columns:** `ID_0`, `ISO`, `NAME_0`, `ID_0`, `NAME_1`, `TYPE_1`, `ENGTYPE_1`
+**Key columns:** `ID_0`, `ISO`, `NAME_0`, `ID_1`, `NAME_1`, `TYPE_1`, `ENGTYPE_1`
 
 **Gaps or missing values:** `NL_NAME_1` and `VARNAME_1` contain missing (`NULL`) values.
 
