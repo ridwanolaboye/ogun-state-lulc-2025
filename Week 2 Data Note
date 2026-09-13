@@ -1,3 +1,19 @@
+## Dataset 1: Nigeria Administrative Boundaries
+
+**Source:** DIVA GIS
+
+**Source link:** [https://geodata.ucdavis.edu/diva/adm/NGA_adm.zip](https://geodata.ucdavis.edu/diva/adm/NGA_adm.zip)
+
+**Number of features:** 37
+
+**Geometry type:** Polygon
+
+**Key columns:** `ID_0`, `ISO`, `NAME_0`, `ID_0`, `NAME_1`, `TYPE_1`, `ENGTYPE_1`
+
+**Gaps or missing values:** `NL_NAME_1` and `VARNAME_1` contain missing (`NULL`) values.
+
+**Purpose:** The dataset contains Nigeria's state-level administrative boundaries, representing the 36 states and the Federal Capital Territory. It is used to define the study area and support the spatial analysis of Ogun State.
+
 ## Dataset 2: Waterways
 
 **Source:** OpenStreetMap (OSM), downloaded using the QuickOSM plugin in QGIS.
